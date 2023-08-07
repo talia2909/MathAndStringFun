@@ -29,14 +29,5 @@ When you run the script, you will be prompted to input a number between 1 and 4.
 - For function **f3**, input a string of English words. The function will then print the sorted words as described in the Overview section.
 - For function **f4**, input a number. The function will then print either 'True' or the number of iterations, depending on whether the number is a Lychrel candidate.
 
-## Contributing
 
-If you'd like to contribute to this project, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
 
-## License
-
-Insert your license information here.
-
----
-
-This is now named and tailored to your selected project name, "MathAndStringFun". This README should make it clear for any viewer of your GitHub repository what your project is about and how to use it.
